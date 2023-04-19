@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Project description 
+Shell basics
